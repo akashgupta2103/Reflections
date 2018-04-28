@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Viewing a diff between two versions of a file enables us to view the changes that has
+been done in the latest version of file as compared to the older version. So, we get to know
+the new text which has been included which contains error/bug.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+By having an easy access to the entire history of a file, one can do the changes in a file freely
+and with more liberty without worrying about losing data.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+Pros: You can commit the file after each logical change.
+Cons: You manually need to remember when to commit, forgetting which, would create an issue.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Version control system like Git is mainly used for versioning control of code which might 
+contain multiple files which are interrelated. On the other hand, others like Google Docs is mainly used
+to edit the rich text files which usually are independent of each other.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log command is used to find the history of all the commits whereas git diff command
+is used to find the changes done between these commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+Using version control, we are maintaining the history of the code after each commit. This we 
+a programmer can easily make the changes to the code without having to think about
+the losing the previous correct version of the code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Committing to git!
